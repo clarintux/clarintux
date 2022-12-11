@@ -20,3 +20,5 @@ I am an average user of the GNU/Linux operating system and free and open source 
 I'm not a programmer or a computer scientist or a systems analyst. I'm just an amateur of this operating system, who enjoys tinkering with his PC.
 
 For me GNU/Linux is like LEGO for a child: everyone can build everything to their liking, piece by piece. 😄
+
+My YouTube channel: https://www.youtube.com/channel/UCTguDCZ1oXwijhEtkaycccA
