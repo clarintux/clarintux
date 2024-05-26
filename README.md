@@ -21,4 +21,8 @@ I'm not a programmer or a computer scientist or a systems analyst. I'm just an a
 
 For me GNU/Linux is like LEGO for a child: everyone can build everything to their liking, piece by piece. 😄
 
+Tutto su Linux: https://tuttosulinux.it
+
+Forum Tutto su Linux: https://forum.tuttosulinux.it
+
 My YouTube channel: https://www.youtube.com/channel/UCTguDCZ1oXwijhEtkaycccA
